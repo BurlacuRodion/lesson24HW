@@ -1,0 +1,18 @@
+
+List de exercitii de recapitulare:   
+•	repo de la lectie: https://github.com/Iulik1989/lesson24
+
+•	Creati o functie care afisieaza in consola o proprietate a obiectulu, dupa,  creati 3 obiecte care au ca metoda functia data.
+folositi, call, apply si bind astfel ca chemarea metodeii dintr-un obiect sa afiseze proprietatea din altul.
+•	Creati un obiect si adaugati proprietati noi la fie care din ele cel putin un atribut trebuie sa fie false si aratati cum acest atribut afecteaza obiectul.
+ex: atributu writable: false nu permite de schimbat value pentru un anumit key a obiectului.
+
+•	Creati un obiect si aplicati metoda care nu permite ca obiectul sa fie extins.
+
+•	Creati un obiect si aplicati metoda care nu permite ca obiectul sa fie extins sa nu pot modifica atributele dar sa pot schimba valoarea la key existente in obiect.
+
+•	Creati un obiect si aplicati metoda care nu permite ca obiectul sa fie extins, valorile sa nu fie posibil de modificat la fel ca si atributele.
+•	Createe o functie care primeste o lista si un element, intoarce true daca toate itemurile din lista sunt egale cu elementul primit si false daca nu sunt egale.
+•	Creati o functie care primeste o lista si un element ca argument, si va intoarce indexul itemului din lista care este identic cu elementul primit, daca asa element nu exista, va intoarce -1.
+•	Creati o functie care primeste o lista si un element ca argument, va intoarce o lista cu itemurile din lista care sunt identice cu acel element.
+•	pentru toate functiile folositi metoda reduce.
